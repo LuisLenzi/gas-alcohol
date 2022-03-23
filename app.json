@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "gas-alcohol",
-    "slug": "gas-alcohol",
+    "name": "imc",
+    "slug": "imc",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
